@@ -1,6 +1,6 @@
 # crud
 
-A new Flutter project.
+A flutter project to perform crud operations.In this app you can create ,update , read and delete your task.
 
 ## Getting Started
 
